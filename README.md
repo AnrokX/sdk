@@ -51,4 +51,4 @@ Bring your own game assets as GLTF models with full server-driven animation supp
 
 We built HYTOPIA to empower both veteran and aspiring game developers to create multiplayer-first, voxel-style, hyper-sharable games. Developer APIs and documentations are simple, powerful and clear. Whether you've been building games for years, a frontend web developer who's dreamed of building a game, an eager learner that's always dreamed of building games, or a curious school student, HYTOPIA was built for you..
 
-[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/hytopiagg/sdk)
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/AnrokX/sdk)
